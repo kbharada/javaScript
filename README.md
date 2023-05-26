@@ -1,16 +1,2 @@
-# Java Script VS code Extensions
-1. Live-Perview
-2. Prettier
-3. Emmest
-
-# Java Script  'TYPES'
-### Primitive :
-* string
-* number
-* boolean
-* null
-* undefined 
-### Complex
-* object
-* array
-* function
+1. https://github.com/kbharada/javaScript/wiki/JS-Quick-Reference-Notes
+2. [https://github.com/airbnb/javascript#types](https://github.com/airbnb/javascript)
